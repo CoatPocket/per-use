@@ -1,2 +1,1 @@
-# per-use
-Type what it cost. Tap every time you use it. The giant number is what each use actually cost.
+Per Use tracks one object: you name it, set a price, and tap the giant number each time you use it. Unused, the full price fills the screen; each tap divides that price by the use count so you see what one wear actually cost. Undo takes back the last tap, Retire stamps a single last-retired line and empties the slot, and you cannot start a second item until the current one is gone.
